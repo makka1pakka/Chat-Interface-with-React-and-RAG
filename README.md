@@ -98,4 +98,4 @@ The backend will be available at http://127.0.0.1:8000, and the frontend React a
 Contributions to this project are welcome! Feel free to submit issues or pull requests for improvements.
 
 ## :mailbox_closed: Contact
-For any information, feedback or questions, please [contact me][anass-email]
+For any information, feedback or questions, please [contact me]
